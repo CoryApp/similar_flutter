@@ -1,0 +1,6 @@
+precompiled_binaries:
+  # Uri prefix used when downloading prebuilt binaries.
+  url_prefix: https://github.com/CoryApp/similar_flutter/releases/download/precompiled_
+
+  # Public key for verifying downloaded prebuilt binaries.
+  public_key: 3a76ad99f968365e19a6f11f5d2129227bdb8f3d31c1f4c689e34c546cd3c3c3
