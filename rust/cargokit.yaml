@@ -3,4 +3,4 @@ precompiled_binaries:
   url_prefix: https://github.com/CoryApp/similar_flutter/releases/download/precompiled_
 
   # Public key for verifying downloaded prebuilt binaries.
-  public_key: 3a76ad99f968365e19a6f11f5d2129227bdb8f3d31c1f4c689e34c546cd3c3c3
+  public_key: 19c9b87233799a5dd86707faa3bbd5783f7d7e72819c20249f3113b911176e02
